@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi Humans,
+My name is Raymond Tan.
+This is just another repository.
